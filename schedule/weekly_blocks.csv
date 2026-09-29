@@ -1,0 +1,66 @@
+Day,Start,End,Activity
+Monday,0000,0700,Allied Shift
+Monday,0700,0730,Commute
+Monday,0730,0900,Free
+Monday,0900,0930,Commute
+Monday,0930,1100,CIS 402 - DION 305 - Rahme
+Monday,1100,1200,CIS 498 - CCB 149 - Khatib
+Monday,1200,1400,Free
+Monday,1400,1500,CIS 381 - CCB 149 - Khatib
+Monday,1500,1530,Commute
+Monday,1530,2400,Sleep
+Tuesday,0000,0645,Sleep
+Tuesday,0645,0715,Free
+Tuesday,0715,0815,Run
+Tuesday,0815,0900,Free
+Tuesday,0900,0930,Commute
+Tuesday,0930,1045,CIS 430 - DION 303 - Fathi
+Tuesday,1045,1145,Gym
+Tuesday,1145,1430,Free
+Tuesday,1430,1500,Commute
+Tuesday,1500,2300,Statewide / Paid Work Priority (if no shift: TRW + coursework)
+Tuesday,2300,2330,Commute
+Tuesday,2330,2400,Sleep
+Wednesday,0000,0845,Sleep
+Wednesday,0845,0930,Free
+Wednesday,0930,1000,Commute
+Wednesday,1000,1100,CIS 402 - DION 305 - Rahme
+Wednesday,1100,1230,CIS 498 - CCB 149 - Khatib
+Wednesday,1230,1430,CIS 498L - CCB 149 - Khatib
+Wednesday,1430,2000,Free
+Wednesday,2000,2400,Sleep
+Thursday,0000,0645,Sleep
+Thursday,0645,0715,Free
+Thursday,0715,0815,Run
+Thursday,0815,0900,Free
+Thursday,0900,0930,Commute
+Thursday,0930,1045,CIS 430 - DION 303 - Fathi
+Thursday,1045,1145,Gym
+Thursday,1145,1430,Free
+Thursday,1430,1500,Commute
+Thursday,1500,2300,Statewide / Paid Work Priority (if no shift: TRW + coursework)
+Thursday,2300,2330,Commute
+Thursday,2330,2400,Sleep
+Friday,0000,0845,Sleep
+Friday,0845,0930,Free
+Friday,0930,1000,Commute
+Friday,1000,1100,CIS 402 - DION 305 - Rahme
+Friday,1100,1200,CIS 498 - CCB 149 - Khatib
+Friday,1200,1400,Free
+Friday,1400,1500,CIS 381 - CCB 149 - Khatib
+Friday,1500,2300,Free
+Friday,2300,2400,Sleep
+Saturday,0000,0815,Sleep
+Saturday,0815,0915,Free
+Saturday,0915,1015,Run
+Saturday,1015,1045,Commute to PF
+Saturday,1045,1145,Gym
+Saturday,1145,1430,Free
+Saturday,1430,1500,Commute
+Saturday,1500,2400,Allied Shift
+Sunday,0000,0700,Allied Shift
+Sunday,0700,0730,Commute
+Sunday,0730,1400,Sleep
+Sunday,1400,1430,Free
+Sunday,1430,1500,Commute
+Sunday,1500,2400,Allied Shift

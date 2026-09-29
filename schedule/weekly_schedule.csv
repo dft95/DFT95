@@ -1,0 +1,97 @@
+Time,Monday,Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday
+0000,Allied Shift,Sleep,Sleep,Sleep,Sleep,Sleep,Allied Shift
+0015,Allied Shift,Sleep,Sleep,Sleep,Sleep,Sleep,Allied Shift
+0030,Allied Shift,Sleep,Sleep,Sleep,Sleep,Sleep,Allied Shift
+0045,Allied Shift,Sleep,Sleep,Sleep,Sleep,Sleep,Allied Shift
+0100,Allied Shift,Sleep,Sleep,Sleep,Sleep,Sleep,Allied Shift
+0115,Allied Shift,Sleep,Sleep,Sleep,Sleep,Sleep,Allied Shift
+0130,Allied Shift,Sleep,Sleep,Sleep,Sleep,Sleep,Allied Shift
+0145,Allied Shift,Sleep,Sleep,Sleep,Sleep,Sleep,Allied Shift
+0200,Allied Shift,Sleep,Sleep,Sleep,Sleep,Sleep,Allied Shift
+0215,Allied Shift,Sleep,Sleep,Sleep,Sleep,Sleep,Allied Shift
+0230,Allied Shift,Sleep,Sleep,Sleep,Sleep,Sleep,Allied Shift
+0245,Allied Shift,Sleep,Sleep,Sleep,Sleep,Sleep,Allied Shift
+0300,Allied Shift,Sleep,Sleep,Sleep,Sleep,Sleep,Allied Shift
+0315,Allied Shift,Sleep,Sleep,Sleep,Sleep,Sleep,Allied Shift
+0330,Allied Shift,Sleep,Sleep,Sleep,Sleep,Sleep,Allied Shift
+0345,Allied Shift,Sleep,Sleep,Sleep,Sleep,Sleep,Allied Shift
+0400,Allied Shift,Sleep,Sleep,Sleep,Sleep,Sleep,Allied Shift
+0415,Allied Shift,Sleep,Sleep,Sleep,Sleep,Sleep,Allied Shift
+0430,Allied Shift,Sleep,Sleep,Sleep,Sleep,Sleep,Allied Shift
+0445,Allied Shift,Sleep,Sleep,Sleep,Sleep,Sleep,Allied Shift
+0500,Allied Shift,Sleep,Sleep,Sleep,Sleep,Sleep,Allied Shift
+0515,Allied Shift,Sleep,Sleep,Sleep,Sleep,Sleep,Allied Shift
+0530,Allied Shift,Sleep,Sleep,Sleep,Sleep,Sleep,Allied Shift
+0545,Allied Shift,Sleep,Sleep,Sleep,Sleep,Sleep,Allied Shift
+0600,Allied Shift,Sleep,Sleep,Sleep,Sleep,Sleep,Allied Shift
+0615,Allied Shift,Sleep,Sleep,Sleep,Sleep,Sleep,Allied Shift
+0630,Allied Shift,Sleep,Sleep,Sleep,Sleep,Sleep,Allied Shift
+0645,Allied Shift,Free,Sleep,Free,Sleep,Sleep,Allied Shift
+0700,Commute,Free,Sleep,Free,Sleep,Sleep,Commute
+0715,Commute,Run,Sleep,Run,Sleep,Sleep,Commute
+0730,Free,Run,Sleep,Run,Sleep,Sleep,Sleep
+0745,Free,Run,Sleep,Run,Sleep,Sleep,Sleep
+0800,Free,Run,Sleep,Run,Sleep,Sleep,Sleep
+0815,Free,Free,Sleep,Free,Sleep,Free,Sleep
+0830,Free,Free,Sleep,Free,Sleep,Free,Sleep
+0845,Free,Free,Free,Free,Free,Free,Sleep
+0900,Commute,Commute,Free,Commute,Free,Free,Sleep
+0915,Commute,Commute,Free,Commute,Free,Run,Sleep
+0930,CIS 402 - DION 305 - Rahme,CIS 430 - DION 303 - Fathi,Commute,CIS 430 - DION 303 - Fathi,Commute,Run,Sleep
+0945,CIS 402 - DION 305 - Rahme,CIS 430 - DION 303 - Fathi,Commute,CIS 430 - DION 303 - Fathi,Commute,Run,Sleep
+1000,CIS 402 - DION 305 - Rahme,CIS 430 - DION 303 - Fathi,CIS 402 - DION 305 - Rahme,CIS 430 - DION 303 - Fathi,CIS 402 - DION 305 - Rahme,Run,Sleep
+1015,CIS 402 - DION 305 - Rahme,CIS 430 - DION 303 - Fathi,CIS 402 - DION 305 - Rahme,CIS 430 - DION 303 - Fathi,CIS 402 - DION 305 - Rahme,Commute to PF,Sleep
+1030,CIS 402 - DION 305 - Rahme,CIS 430 - DION 303 - Fathi,CIS 402 - DION 305 - Rahme,CIS 430 - DION 303 - Fathi,CIS 402 - DION 305 - Rahme,Commute to PF,Sleep
+1045,CIS 402 - DION 305 - Rahme,Gym,CIS 402 - DION 305 - Rahme,Gym,CIS 402 - DION 305 - Rahme,Gym,Sleep
+1100,CIS 498 - CCB 149 - Khatib,Gym,CIS 498 - CCB 149 - Khatib,Gym,CIS 498 - CCB 149 - Khatib,Gym,Sleep
+1115,CIS 498 - CCB 149 - Khatib,Gym,CIS 498 - CCB 149 - Khatib,Gym,CIS 498 - CCB 149 - Khatib,Gym,Sleep
+1130,CIS 498 - CCB 149 - Khatib,Gym,CIS 498 - CCB 149 - Khatib,Gym,CIS 498 - CCB 149 - Khatib,Gym,Sleep
+1145,CIS 498 - CCB 149 - Khatib,Free,CIS 498 - CCB 149 - Khatib,Free,CIS 498 - CCB 149 - Khatib,Free,Sleep
+1200,Free,Free,CIS 498 - CCB 149 - Khatib,Free,Free,Free,Sleep
+1215,Free,Free,CIS 498 - CCB 149 - Khatib,Free,Free,Free,Sleep
+1230,Free,Free,CIS 498L - CCB 149 - Khatib,Free,Free,Free,Sleep
+1245,Free,Free,CIS 498L - CCB 149 - Khatib,Free,Free,Free,Sleep
+1300,Free,Free,CIS 498L - CCB 149 - Khatib,Free,Free,Free,Sleep
+1315,Free,Free,CIS 498L - CCB 149 - Khatib,Free,Free,Free,Sleep
+1330,Free,Free,CIS 498L - CCB 149 - Khatib,Free,Free,Free,Sleep
+1345,Free,Free,CIS 498L - CCB 149 - Khatib,Free,Free,Free,Sleep
+1400,CIS 381 - CCB 149 - Khatib,Free,CIS 498L - CCB 149 - Khatib,Free,CIS 381 - CCB 149 - Khatib,Free,Free
+1415,CIS 381 - CCB 149 - Khatib,Free,CIS 498L - CCB 149 - Khatib,Free,CIS 381 - CCB 149 - Khatib,Free,Free
+1430,CIS 381 - CCB 149 - Khatib,Commute,Free,Commute,CIS 381 - CCB 149 - Khatib,Commute,Commute
+1445,CIS 381 - CCB 149 - Khatib,Commute,Free,Commute,CIS 381 - CCB 149 - Khatib,Commute,Commute
+1500,Commute,Statewide / Paid Work Priority (if no shift: TRW + coursework),Free,Statewide / Paid Work Priority (if no shift: TRW + coursework),Free,Allied Shift,Allied Shift
+1515,Commute,Statewide / Paid Work Priority (if no shift: TRW + coursework),Free,Statewide / Paid Work Priority (if no shift: TRW + coursework),Free,Allied Shift,Allied Shift
+1530,Sleep,Statewide / Paid Work Priority (if no shift: TRW + coursework),Free,Statewide / Paid Work Priority (if no shift: TRW + coursework),Free,Allied Shift,Allied Shift
+1545,Sleep,Statewide / Paid Work Priority (if no shift: TRW + coursework),Free,Statewide / Paid Work Priority (if no shift: TRW + coursework),Free,Allied Shift,Allied Shift
+1600,Sleep,Statewide / Paid Work Priority (if no shift: TRW + coursework),Free,Statewide / Paid Work Priority (if no shift: TRW + coursework),Free,Allied Shift,Allied Shift
+1615,Sleep,Statewide / Paid Work Priority (if no shift: TRW + coursework),Free,Statewide / Paid Work Priority (if no shift: TRW + coursework),Free,Allied Shift,Allied Shift
+1630,Sleep,Statewide / Paid Work Priority (if no shift: TRW + coursework),Free,Statewide / Paid Work Priority (if no shift: TRW + coursework),Free,Allied Shift,Allied Shift
+1645,Sleep,Statewide / Paid Work Priority (if no shift: TRW + coursework),Free,Statewide / Paid Work Priority (if no shift: TRW + coursework),Free,Allied Shift,Allied Shift
+1700,Sleep,Statewide / Paid Work Priority (if no shift: TRW + coursework),Free,Statewide / Paid Work Priority (if no shift: TRW + coursework),Free,Allied Shift,Allied Shift
+1715,Sleep,Statewide / Paid Work Priority (if no shift: TRW + coursework),Free,Statewide / Paid Work Priority (if no shift: TRW + coursework),Free,Allied Shift,Allied Shift
+1730,Sleep,Statewide / Paid Work Priority (if no shift: TRW + coursework),Free,Statewide / Paid Work Priority (if no shift: TRW + coursework),Free,Allied Shift,Allied Shift
+1745,Sleep,Statewide / Paid Work Priority (if no shift: TRW + coursework),Free,Statewide / Paid Work Priority (if no shift: TRW + coursework),Free,Allied Shift,Allied Shift
+1800,Sleep,Statewide / Paid Work Priority (if no shift: TRW + coursework),Free,Statewide / Paid Work Priority (if no shift: TRW + coursework),Free,Allied Shift,Allied Shift
+1815,Sleep,Statewide / Paid Work Priority (if no shift: TRW + coursework),Free,Statewide / Paid Work Priority (if no shift: TRW + coursework),Free,Allied Shift,Allied Shift
+1830,Sleep,Statewide / Paid Work Priority (if no shift: TRW + coursework),Free,Statewide / Paid Work Priority (if no shift: TRW + coursework),Free,Allied Shift,Allied Shift
+1845,Sleep,Statewide / Paid Work Priority (if no shift: TRW + coursework),Free,Statewide / Paid Work Priority (if no shift: TRW + coursework),Free,Allied Shift,Allied Shift
+1900,Sleep,Statewide / Paid Work Priority (if no shift: TRW + coursework),Free,Statewide / Paid Work Priority (if no shift: TRW + coursework),Free,Allied Shift,Allied Shift
+1915,Sleep,Statewide / Paid Work Priority (if no shift: TRW + coursework),Free,Statewide / Paid Work Priority (if no shift: TRW + coursework),Free,Allied Shift,Allied Shift
+1930,Sleep,Statewide / Paid Work Priority (if no shift: TRW + coursework),Free,Statewide / Paid Work Priority (if no shift: TRW + coursework),Free,Allied Shift,Allied Shift
+1945,Sleep,Statewide / Paid Work Priority (if no shift: TRW + coursework),Free,Statewide / Paid Work Priority (if no shift: TRW + coursework),Free,Allied Shift,Allied Shift
+2000,Sleep,Statewide / Paid Work Priority (if no shift: TRW + coursework),Sleep,Statewide / Paid Work Priority (if no shift: TRW + coursework),Free,Allied Shift,Allied Shift
+2015,Sleep,Statewide / Paid Work Priority (if no shift: TRW + coursework),Sleep,Statewide / Paid Work Priority (if no shift: TRW + coursework),Free,Allied Shift,Allied Shift
+2030,Sleep,Statewide / Paid Work Priority (if no shift: TRW + coursework),Sleep,Statewide / Paid Work Priority (if no shift: TRW + coursework),Free,Allied Shift,Allied Shift
+2045,Sleep,Statewide / Paid Work Priority (if no shift: TRW + coursework),Sleep,Statewide / Paid Work Priority (if no shift: TRW + coursework),Free,Allied Shift,Allied Shift
+2100,Sleep,Statewide / Paid Work Priority (if no shift: TRW + coursework),Sleep,Statewide / Paid Work Priority (if no shift: TRW + coursework),Free,Allied Shift,Allied Shift
+2115,Sleep,Statewide / Paid Work Priority (if no shift: TRW + coursework),Sleep,Statewide / Paid Work Priority (if no shift: TRW + coursework),Free,Allied Shift,Allied Shift
+2130,Sleep,Statewide / Paid Work Priority (if no shift: TRW + coursework),Sleep,Statewide / Paid Work Priority (if no shift: TRW + coursework),Free,Allied Shift,Allied Shift
+2145,Sleep,Statewide / Paid Work Priority (if no shift: TRW + coursework),Sleep,Statewide / Paid Work Priority (if no shift: TRW + coursework),Free,Allied Shift,Allied Shift
+2200,Sleep,Statewide / Paid Work Priority (if no shift: TRW + coursework),Sleep,Statewide / Paid Work Priority (if no shift: TRW + coursework),Free,Allied Shift,Allied Shift
+2215,Sleep,Statewide / Paid Work Priority (if no shift: TRW + coursework),Sleep,Statewide / Paid Work Priority (if no shift: TRW + coursework),Free,Allied Shift,Allied Shift
+2230,Sleep,Statewide / Paid Work Priority (if no shift: TRW + coursework),Sleep,Statewide / Paid Work Priority (if no shift: TRW + coursework),Free,Allied Shift,Allied Shift
+2245,Sleep,Statewide / Paid Work Priority (if no shift: TRW + coursework),Sleep,Statewide / Paid Work Priority (if no shift: TRW + coursework),Free,Allied Shift,Allied Shift
+2300,Sleep,Commute,Sleep,Commute,Sleep,Allied Shift,Allied Shift
+2315,Sleep,Commute,Sleep,Commute,Sleep,Allied Shift,Allied Shift
+2330,Sleep,Sleep,Sleep,Sleep,Sleep,Allied Shift,Allied Shift
+2345,Sleep,Sleep,Sleep,Sleep,Sleep,Allied Shift,Allied Shift
